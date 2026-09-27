@@ -2,7 +2,7 @@
 
 ### ARM Assembly Dili ile Doğrusal Arama ve Counting Sort Algoritmalarının Gerçeklenmesi
 
-Bu depo; Fatih Sultan Mehmet Vakıf Üniversitesi Bilgisayar Mühendisliği **Bilgisayar Mimarisi ve Organizasyonu (Computer Organization & Architecture)** dersi proje çalışması kapsamında ARMv7-M (STM32F4 / Keil uVision) mimarisinde geliştirilen doğrusal arama (`deger_bul`) ve frekans-kümülatif toplam tabanlı sayma sıralaması (`count_sirala`) rutinlerini barındırır.
+Bu depo; Bilgisayar Mühendisliği **Bilgisayar Mimarisi ve Organizasyonu (Computer Organization & Architecture)** dersi proje çalışması kapsamında ARMv7-M (STM32F4 / Keil uVision) mimarisinde geliştirilen doğrusal arama (`deger_bul`) ve frekans-kümülatif toplam tabanlı sayma sıralaması (`count_sirala`) rutinlerini barındırır.
 
 ---
 
